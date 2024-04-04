@@ -49,13 +49,13 @@
 <meta property="og:title" content="STAT 548">
 <meta property="og:site_title" content="Korthauer Lab">
 <meta property="og:description" content="Statistics + Genomics. We work on advancing statistical methodology and computational tools for the analysis of high-dimensional genomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development.">
-<meta property="og:url" content="">
+<meta property="og:url" content="https://www.korthauerlab.com">
 <meta property="og:image" content="/images/share.png">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="STAT 548">
 <meta property="twitter:description" content="Statistics + Genomics. We work on advancing statistical methodology and computational tools for the analysis of high-dimensional genomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development.">
-<meta property="twitter:url" content="">
+<meta property="twitter:url" content="https://www.korthauerlab.com">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.png">
 
@@ -76,11 +76,11 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
     },
-    "url": ""
+    "url": "https://www.korthauerlab.com"
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="https://www.korthauerlab.com/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -90,9 +90,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -379,6 +379,8 @@
 
   <script src="/_scripts/site-search.js"></script>
 
+  <script src="/_scripts/table-wrap.js"></script>
+
   <script src="/_scripts/tooltip.js"></script>
 
 
@@ -403,12 +405,12 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Korthauer Lab</span>
+          <span class="title">Korthauer Lab</span>
         
         
-          <span>Statistics + Genomics</span>
+          <span class="subtitle">Statistics + Genomics</span>
         
       </span>
     
@@ -463,11 +465,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -537,7 +536,7 @@
 
   <div class="button-wrapper">
     <a class="button" href="https://scholar.google.com/citations?user=spd-KjUAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
-      <i class="icon fa-brands fa-google"></i>
+      <i class="icon fa-brands fa-google-scholar"></i>
       
     </a>
   </div>
@@ -582,7 +581,7 @@
 
   <div class="button-wrapper">
     <a class="button" href="https://bsky.app/profile/keegankorthauer.bsky.social" data-tooltip="Bluesky" data-style="bare" aria-label="Bluesky">
-      <i class="icon fa-solid fa-cloud"></i>
+      <i class="icon fa-brands fa-bluesky"></i>
       
     </a>
   </div>
