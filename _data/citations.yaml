@@ -1,5 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.07.02.600461
+  title: 'Discrepancies in readouts between Infinium MethylationEPIC v2.0 and v1.0
+    reflected in DNA methylation-based tools: implications and considerations for
+    human population epigenetic studies'
+  authors:
+  - Beryl C. Zhuang
+  - Marcia Smiti Jude
+  - Chaini Konwar
+  - Natan Yusupov
+  - Calen Patrick Ryan
+  - Hannah-Ruth Engelbrecht
+  - Joanne Whitehead
+  - Alexandra A. Halberstam
+  - Julia L. MacIsaac
+  - Kristy Dever
+  - Toan Khanh Tran
+  - Kim Korinek
+  - Zachary Zimmer
+  - Nanette R. Lee
+  - Thomas W. McDade
+  - Christopher W. Kuzawa
+  - Kim M. Huffman
+  - Daniel W. Belsky
+  - Elisabeth B. Binder
+  - Darina Czamara
+  - Keegan Korthauer
+  - Michael Steffen Kobor
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-03'
+  link: https://doi.org/g6jhkq
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.11.20.567911
   title: 'vmrseq: Probabilistic Modeling of Single-cell Methylation Heterogeneity'
   authors:
