@@ -46,6 +46,12 @@
   plugin: sources.py
   file: sources.yaml
   image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
+  buttons:
+  - type: source
+    link: https://github.com/nshen7/vmrseq-experiments
+  - type: package
+    text: R package
+    link: https://github.com/nshen7/vmrseq
 - id: doi:10.48550/arXiv.2308.02067
   title: Bayesian Decision Curve Analysis with bayesDCA
   authors:
