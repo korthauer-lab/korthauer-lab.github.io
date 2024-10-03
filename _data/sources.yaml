@@ -124,6 +124,12 @@
   
 - id: doi:10.1101/2023.11.20.567911
   image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
+  buttons:
+    - type: source
+      link: https://github.com/nshen7/vmrseq-experiments
+    - type: package
+      text: R package
+      link: https://github.com/nshen7/vmrseq
   
 - id: doi:10.1101/655795
   type: duplicate
