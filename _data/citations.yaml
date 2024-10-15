@@ -1051,3 +1051,22 @@
   type: duplicate
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2024.10.07.617116
+  title: Complete Reference Genome and Pangenome Expand Biologically Relevant Information
+    for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array
+    Data
+  authors:
+  - Zheng (Joe) Dong
+  - Joanne Whitehead
+  - Maggie Fu
+  - Julia L. MacIsaac
+  - David H. Rehkopf
+  - Luis Rosero-Bixby
+  - Michael S. Kobor
+  - Keegan Korthauer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-11'
+  link: https://doi.org/g8g3zh
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/11/2024.10.07.617116/F1.large.jpg
+  plugin: sources.py
+  file: sources.yaml
