@@ -43,7 +43,7 @@
   image: https://febs.onlinelibrary.wiley.com/cms/asset/b5f3ef07-2a56-4c82-892f-22847fc2fde9/febs15858-fig-0001-m.png
   
 - id: doi:10.1214/20-AOAS1423
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10275512/bin/nihms-1901161-f0005.jpg
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0b98/10275512/b3abc8cfb59c/nihms-1901161-f0003.jpg
   buttons:
     - type: package
       text: R package
@@ -96,16 +96,16 @@
   image: https://www.cell.com/cms/attachment/b6b454a0-c30b-403a-81d1-a6dfdd5cb91f/fx1.jpg
   
 - id: doi:10.15252/embj.201798452
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5852646/bin/EMBJ-37-e98452-g002.jpg
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cdf5/5852646/9b33f22061a9/EMBJ-37-e98452-g004.jpg
   
 - id: doi:10.1007/s12561-016-9144-1
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5617361/bin/nihms810073f1.jpg
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3078/5617361/794be25732d8/nihms810073f1.jpg
 
 - id: doi:10.1186/s13059-016-1077-y
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1077-y/MediaObjects/13059_2016_1077_Fig3_HTML.gif?as=webp
 
 - id: doi:10.1093/carcin/bgv171
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4834967/bin/carcin_bgv171_f0002.jpg
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad08/4834967/6b836d6bb192/carcin_bgv171_f0002.jpg
   
 - id: doi:10.1093/bioinformatics/btu858
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4426832/bin/btu858f1p.jpg
