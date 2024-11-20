@@ -800,7 +800,7 @@
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad08/4834967/6b836d6bb192/carcin_bgv171_f0002.jpg
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad08/4834967/8ddfd99b424c/carcin_bgv171_f0002.jpg
 - id: doi:10.1101/035501
   title: 'scDD: A statistical approach for identifying differential distributions
     in single-cell RNA-seq experiments'
