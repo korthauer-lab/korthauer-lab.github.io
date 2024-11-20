@@ -1,5 +1,53 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/mnfr.202400662
+  title: Pterostilbene Targets Hallmarks of Aging in the Gene Expression Landscape
+    in Blood of Healthy Rats
+  authors:
+  - "Marco A. Tello\u2010Palencia"
+  - Tony Yang
+  - Olga Sularz
+  - Louis Erik Demers
+  - Yuexi Ma
+  - Cayla Boycott
+  - Huiying Amelie Zhang
+  - "Katarzyna Lubecka\u2010Gajewska"
+  - Sadhri Kumar
+  - Benjamin S. Ramsey
+  - "Sandra Torregrosa\u2010Allen"
+  - Bennett D. Elzey
+  - Nadia Atallah Lanman
+  - Keegan Korthauer
+  - Barbara Stefanska
+  publisher: Molecular Nutrition &amp; Food Research
+  date: '2024-11-19'
+  link: https://doi.org/g8rjr4
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.11.07.622474
+  title: Genetic Basis, Quantitative Nature, and Functional Relevance of Evolutionarily
+    Conserved DNA Methylation
+  authors:
+  - Zheng (Joe) Dong
+  - Samantha Schaffner
+  - Maggie Fu
+  - Joanne Whitehead
+  - Julia L. MacIsaac
+  - David H. Rehkopf
+  - W. Thomas Boyce
+  - Luis Rosero-Bixby
+  - Lluis Quintana-Murci
+  - Etienne Patin
+  - Gregory E. Miller
+  - Keegan Korthauer
+  - Michael S. Kobor
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-11-09'
+  link: https://doi.org/g8rjr5
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.07.02.600461
   title: 'Discrepancies in readouts between Infinium MethylationEPIC v2.0 and v1.0
     reflected in DNA methylation-based tools: implications and considerations for
