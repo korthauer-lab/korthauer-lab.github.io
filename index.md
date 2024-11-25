@@ -74,7 +74,7 @@ We're an interdisciplinary team of researchers who strive to be rigorous, reprod
 
 {%
   include feature.html
-  image="images/group2.jpg"
+  image="images/group3.jpg"
   link="team"
   title="Our Team"
   text=text

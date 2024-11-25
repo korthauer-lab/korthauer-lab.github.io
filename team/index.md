@@ -58,6 +58,13 @@ of Health Research](https://cihr-irsc.gc.ca/images/leaf-cihr-colour-en.jpg)](htt
 
 {%
   include figure.html
+  image="images/group3.jpg"
+  caption="Korthauer lab winter social 2024"
+  width="80%"
+%}
+
+{%
+  include figure.html
   image="images/group2.jpg"
   caption="Korthauer lab summer social 2023"
   width="80%"
