@@ -14,7 +14,7 @@
 - title: vmrseq
   subtitle: 
   group: main
-  image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
+  image: https://github.com/nshen7/vmrseq/blob/main/man/figures/logo.png?raw=true
   link: https://github.com/nshen7/vmrseq
   description: R package for detecting variably methylated regions (VMRs) from single-cell methylation sequencing
   repo: https://github.com/nshen7/vmrseq
