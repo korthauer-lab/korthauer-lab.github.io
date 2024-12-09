@@ -6,11 +6,18 @@
   - Giuliano Netto Flores Cruz
   - Keegan Korthauer
   publisher: Statistics in Medicine
-  date: '2024-12-01'
+  date: '2023-08-03'
   link: https://doi.org/g8t4jk
   orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://github.com/giulianonetto/bayesdca/raw/master/man/figures/README-unnamed-chunk-5-1.png
+  buttons:
+  - type: source
+    link: https://github.com/giulianonetto/paper-bayesdca
+  - type: package
+    text: R Package
+    link: https://github.com/giulianonetto/bayesdca
 - id: doi:10.1002/mnfr.202400662
   title: Pterostilbene Targets Hallmarks of Aging in the Gene Expression Landscape
     in Blood of Healthy Rats
@@ -119,18 +126,12 @@
   - Giuliano N. F. Cruz
   - Keegan Korthauer
   publisher: arXiv
-  date: '2023-08-03'
+  date: '2023-01-01'
   link: https://doi.org/gsqg6w
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: https://github.com/giulianonetto/bayesdca/raw/master/man/figures/README-unnamed-chunk-5-1.png
-  buttons:
-  - type: source
-    link: https://github.com/giulianonetto/paper-bayesdca
-  - type: package
-    text: R Package
-    link: https://github.com/giulianonetto/bayesdca
+  type: duplicate
 - id: doi:10.1016/j.nbd.2023.106138
   title: "FTD-associated behavioural and transcriptomic abnormalities in \u2018humanized\u2019\
     \ progranulin-deficient mice: A novel model for progranulin-associated FTD"
