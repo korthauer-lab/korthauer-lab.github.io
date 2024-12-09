@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/sim.10277
+  title: Bayesian Decision Curve Analysis With Bayesdca
+  authors:
+  - Giuliano Netto Flores Cruz
+  - Keegan Korthauer
+  publisher: Statistics in Medicine
+  date: '2024-12-01'
+  link: https://doi.org/g8t4jk
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/mnfr.202400662
   title: Pterostilbene Targets Hallmarks of Aging in the Gene Expression Landscape
     in Blood of Healthy Rats
