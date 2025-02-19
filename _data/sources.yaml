@@ -175,3 +175,6 @@
   - type: package
     text: R package
     link: https://github.com/nshen7/vmrseq
+
+- id: doi:10.1016/j.xpro.2025.103638
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166725000449-gr1.jpg
