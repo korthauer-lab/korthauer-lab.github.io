@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.xpro.2025.103638
+  title: 'Examining cellular heterogeneity in human DNA methylation studies: Overview
+    and recommendations'
+  authors:
+  - Maggie Po-Yuan Fu
+  - Sarah Martin Merrill
+  - Keegan Korthauer
+  - Michael Steffen Kobor
+  publisher: STAR Protocols
+  date: '2025-03-01'
+  link: https://doi.org/g85jb7
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-024-03457-7
   title: 'vmrseq: probabilistic modeling of single-cell methylation heterogeneity'
   authors:
