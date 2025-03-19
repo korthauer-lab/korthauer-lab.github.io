@@ -80,7 +80,7 @@
     
 - title: benchmarkfdr-shiny
   subtitle: 
-  group: main
+  group: contributor
   image: https://github.com/kdkorthauer/benchmarkfdr-shiny/raw/master/img/screenshot2.png
   link: https://github.com/kdkorthauer/benchmarkfdr-shiny
   description: R/Shiny application for exploring results from ["A practical guide to methods controlling false discoveries in computational biology"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1) 
@@ -93,7 +93,7 @@
     - maintainer
 
 - title: MADGiC
-  subtitle: 
+  subtitle: contributor
   group: 
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4426832/bin/btu858f1p.jpg
   link: https://github.com/kdkorthauer/MADGiC

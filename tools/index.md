@@ -25,9 +25,3 @@ We develop and maintain freely available, open source software implementations o
 {% include list.html data="tools" component="card" filters="group: contributor " style="small" %}
 
 {% include section.html %}
-
-## Legacy
-
-{% include list.html data="tools" component="card" filters="group:  " style="small" %}
-
-{% include section.html %}
