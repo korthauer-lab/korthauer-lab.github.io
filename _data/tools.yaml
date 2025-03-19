@@ -1,3 +1,16 @@
+- title: decemedip
+  subtitle: 
+  group: main
+  image: https://github.com/nshen7/decemedip/raw/master/man/figures/method_main_figure.png
+  link: https://github.com/nshen7/decemedip
+  description: Deconvolution of cell types from MeDIP-seq
+  repo: https://github.com/nshen7/decemedip
+  tags:
+    - software
+    - R package
+    - developer
+    - maintainer
+
 - title: RAMEN
   subtitle: 
   group: main
