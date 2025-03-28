@@ -15,6 +15,22 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166725000449-gr1.jpg
+- id: doi:10.1101/2025.03.16.643544
+  title: Distinct Co-Methylation Patterns in African and European Populations and
+    Their Genetic Associations
+  authors:
+  - Zheng (Joe) Dong
+  - Nicole Gladish
+  - Maggie P.Y. Fu
+  - Samantha L. Schaffner
+  - Keegan Korthauer
+  - Michael S. Kobor
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-17'
+  link: https://doi.org/g897cx
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-024-03457-7
   title: 'vmrseq: probabilistic modeling of single-cell methylation heterogeneity'
   authors:
