@@ -78,6 +78,16 @@
     - developer
     - maintainer
     
+- title: scDDboost
+  group: contributor
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0b98/10275512/b3abc8cfb59c/nihms-1901161-f0003.jpg
+  link: https://www.bioconductor.org/packages/release/bioc/html/scDDboost.html
+  description: an R package to analyze changes in the distribution of single-cell expression data between two experimental conditions with multiple cell types
+  tags: 
+    - R package
+    - contributor
+    - Bioconductor
+    
 - title: benchmarkfdr-shiny
   subtitle: 
   group: contributor
@@ -127,15 +137,6 @@
     - software
     - R package
     - Bioconductor
-    - contributor
-  
-- title: scDDboost
-  group: contributor
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10275512/bin/nihms-1901161-f0003.jpg
-  link: https://github.com/wiscstatman/scDDboost
-  description: an R package to analyze changes in the distribution of single-cell expression data between two experimental conditions with multiple cell types
-  tags: 
-    - R package
     - contributor
   
 - title: oligoGames
