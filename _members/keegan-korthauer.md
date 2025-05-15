@@ -17,7 +17,6 @@ links:
   orcid: 0000-0002-4565-1654
   github: kdkorthauer
   bluesky: keegankorthauer
-  mastodon-genomicsocial: keegankorthauer
   home-page: https://korthauerlab.com
 ---
 
