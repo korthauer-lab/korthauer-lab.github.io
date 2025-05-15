@@ -3,7 +3,7 @@ title: Two new preprints!
 author: 
 tags:
   - papers
-image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+image: https://pbs.twimg.com/profile_images/956882186996662272/lwyH1HFe_400x400.jpg
 ---
 
 We are excited to share the latest research led by Korthauer lab members!
