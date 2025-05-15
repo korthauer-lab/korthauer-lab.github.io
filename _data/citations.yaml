@@ -14,7 +14,7 @@
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: ../images/decemedip_fig.jpeg
+  image: ../images/decemedip_fig.jpg
 - id: doi:10.1101/2025.05.08.652964
   title: 'RAMEN: Dissecting individual, additive and interactive gene-environment
     contributions to DNA methylome variability in cord blood'
