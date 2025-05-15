@@ -1,5 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.05.09.653152
+  title: 'decemedip: hierarchical Bayesian modeling for cell type deconvolution of
+    immunoprecipitation-based DNA methylomes'
+  authors:
+  - Ning Shen
+  - Ze Zhang
+  - Sylvan Baca
+  - Keegan Korthauer
+  publisher: bioRxiv
+  date: '2025-05-15'
+  link: https://doi.org/g9j955
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.05.08.652964
+  title: 'RAMEN: Dissecting individual, additive and interactive gene-environment
+    contributions to DNA methylome variability in cord blood'
+  authors:
+  - Erick I. Navarro-Delgado
+  - Darina Czamara
+  - Karlie Edwards
+  - Maggie P Fu
+  - Sarah M. Merrill
+  - Chaini Konwar
+  - Julie L. MacIsaac
+  - David TS Lin
+  - Piushkumar J. Mandhane
+  - Elinor Simons
+  - Padmaja Subbarao
+  - Theo J Moraes
+  - Jari Lahti
+  - Gregory E. Miller
+  - Elisabeth B. Binder
+  - "Katri R\xE4ikk\xF6nen"
+  - Stuart Turvey
+  - Keegan Korthauer
+  - Michael S Kobor
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-13'
+  link: https://doi.org/g9j956
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.xpro.2025.103638
   title: 'Examining cellular heterogeneity in human DNA methylation studies: Overview
     and recommendations'
