@@ -148,6 +148,7 @@
 
 - id: doi:10.1101/2024.10.07.617116
   image: https://www.biorxiv.org/content/biorxiv/early/2024/10/11/2024.10.07.617116/F1.large.jpg
+  type: duplicate
   
 - id: doi:10.1002/mnfr.202400662
   image: https://onlinelibrary.wiley.com/cms/asset/8e3da3e5-dcb5-4190-813c-0900b4f7e35c/mnfr4919-gra-0001-m.jpg
@@ -187,3 +188,6 @@
   
 - id: doi:10.1101/2025.05.08.652964
   image: ../images/ramen_fig.png
+  
+- id: doi:10.1016/j.celrep.2025.115755
+  image: https://www.cell.com/cms/10.1016/j.celrep.2025.115755/asset/db87e3e7-12a8-405b-ab75-79c576e73520/main.assets/fx1_lrg.jpg
