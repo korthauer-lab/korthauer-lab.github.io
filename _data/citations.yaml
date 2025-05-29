@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.celrep.2025.115755
+  title: Complete reference genome and pangenome improve genome-wide detection and
+    interpretation of DNA methylation using sequencing and array data
+  authors:
+  - Zheng Dong
+  - Joanne Whitehead
+  - Maggie Fu
+  - Julia L. MacIsaac
+  - David H. Rehkopf
+  - Luis Rosero-Bixby
+  - Michael S. Kobor
+  - Keegan Korthauer
+  publisher: Cell Reports
+  date: '2025-06-01'
+  link: https://doi.org/g9mpq4
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.05.09.653152
   title: 'decemedip: hierarchical Bayesian modeling for cell type deconvolution of
     immunoprecipitation-based DNA methylomes'
