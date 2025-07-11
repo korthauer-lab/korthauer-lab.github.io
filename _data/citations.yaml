@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.26508/lsa.202403155
+  title: "Accounting for differences between Infinium MethylationEPIC v2 and v1 in\
+    \ DNA methylation\u2013based tools"
+  authors:
+  - Beryl C. Zhuang
+  - Marcia Smiti Jude
+  - Chaini Konwar
+  - Natan Yusupov
+  - Calen P. Ryan
+  - Hannah-Ruth Engelbrecht
+  - Joanne Whitehead
+  - Alexandra A. Halberstam
+  - Julia L. MacIsaac
+  - Kristy Dever
+  - Toan Khanh Tran
+  - Kim Korinek
+  - Zachary Zimmer
+  - Nanette R. Lee
+  - Thomas W. McDade
+  - Christopher W. Kuzawa
+  - Kim M. Huffman
+  - Daniel W. Belsky
+  - Elisabeth B. Binder
+  - Darina Czamara
+  - Keegan Korthauer
+  - Michael S. Kobor
+  publisher: Life Science Alliance
+  date: '2025-09-01'
+  link: https://doi.org/g9sxcn
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.celrep.2025.115755
   title: Complete reference genome and pangenome improve genome-wide detection and
     interpretation of DNA methylation using sequencing and array data
