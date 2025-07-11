@@ -30,8 +30,9 @@
   date: '2025-09-01'
   link: https://doi.org/g9sxcn
   orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.life-science-alliance.org/content/lsa/8/9/e202403155/F1.medium.gif
 - id: doi:10.1016/j.celrep.2025.115755
   title: Complete reference genome and pangenome improve genome-wide detection and
     interpretation of DNA methylation using sequencing and array data
@@ -247,7 +248,7 @@
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/09/28/2024.07.02.600461/F2.large.jpg
+  type: duplicate
 - id: doi:10.1101/2023.11.20.567911
   title: 'vmrseq: probabilistic modeling of single-cell methylation heterogeneity'
   authors:
