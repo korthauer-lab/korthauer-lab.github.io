@@ -144,7 +144,10 @@
   type: duplicate
   
 - id: doi:10.1101/2024.07.02.600461
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/09/28/2024.07.02.600461/F2.large.jpg
+  type: duplicate
+  
+- id: doi:10.26508/lsa.202403155
+  image: https://www.life-science-alliance.org/content/lsa/8/9/e202403155/F1.medium.gif
 
 - id: doi:10.1101/2024.10.07.617116
   image: https://www.biorxiv.org/content/biorxiv/early/2024/10/11/2024.10.07.617116/F1.large.jpg
