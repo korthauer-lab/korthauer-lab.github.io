@@ -216,9 +216,8 @@
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2024/11/09/2024.11.07.622474/F1.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1101/2024.07.02.600461
-  title: 'Discrepancies in readouts between Infinium MethylationEPIC v2.0 and v1.0
-    reflected in DNA methylation-based tools: implications and considerations for
-    human population epigenetic studies'
+  title: Accounting for differences between Infinium MethylationEPIC v2 and v1 in
+    DNA methylation-based tools
   authors:
   - Beryl C. Zhuang
   - Marcia Smiti Jude
