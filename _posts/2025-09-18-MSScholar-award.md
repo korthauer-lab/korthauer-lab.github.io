@@ -1,5 +1,5 @@
 ---
-title: 
+title: Keegan awarded Michael Smith Health Research BC Scholar Award
 author: keegan-korthauer
 tags:
   - awards
