@@ -1,38 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.26508/lsa.202403155
-  title: "Accounting for differences between Infinium MethylationEPIC v2 and v1 in\
-    \ DNA methylation\u2013based tools"
+- id: doi:10.1200/PO-25-00279
+  title: 'Clinical Utility of Multicancer Detection in Symptomatic Patients: A Decision-Making
+    Perspective'
   authors:
-  - Beryl C. Zhuang
-  - Marcia Smiti Jude
-  - Chaini Konwar
-  - Natan Yusupov
-  - Calen P. Ryan
-  - Hannah-Ruth Engelbrecht
-  - Joanne Whitehead
-  - Alexandra A. Halberstam
-  - Julia L. MacIsaac
-  - Kristy Dever
-  - Toan Khanh Tran
-  - Kim Korinek
-  - Zachary Zimmer
-  - Nanette R. Lee
-  - Thomas W. McDade
-  - Christopher W. Kuzawa
-  - Kim M. Huffman
-  - Daniel W. Belsky
-  - Elisabeth B. Binder
-  - Darina Czamara
+  - Giuliano Netto Flores Cruz
   - Keegan Korthauer
-  - Michael S. Kobor
-  publisher: Life Science Alliance
-  date: '2025-09-01'
-  link: https://doi.org/g9sxcn
+  publisher: JCO Precision Oncology
+  date: '2025-12-01'
+  link: https://doi.org/hbdtz4
   orcid: 0000-0002-4565-1654
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.life-science-alliance.org/content/lsa/8/9/e202403155/F1.medium.gif
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.celrep.2025.115755
   title: Complete reference genome and pangenome improve genome-wide detection and
     interpretation of DNA methylation using sequencing and array data
@@ -67,6 +46,71 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/decemedip_fig.jpg
+- id: doi:10.26508/lsa.202403155
+  title: "Accounting for differences between Infinium MethylationEPIC v2 and v1 in\
+    \ DNA methylation\u2013based tools"
+  authors:
+  - Beryl C Zhuang
+  - Marcia Smiti Jude
+  - Chaini Konwar
+  - Natan Yusupov
+  - Calen P Ryan
+  - Hannah-Ruth Engelbrecht
+  - Joanne Whitehead
+  - Alexandra A Halberstam
+  - Julia L MacIsaac
+  - Kristy Dever
+  - Toan Khanh Tran
+  - Kim Korinek
+  - Zachary Zimmer
+  - Nanette R Lee
+  - Thomas W McDade
+  - Christopher W Kuzawa
+  - Kim M Huffman
+  - Daniel W Belsky
+  - Elisabeth B Binder
+  - Darina Czamara
+  - Keegan Korthauer
+  - Michael S Kobor
+  publisher: Life Science Alliance
+  date: '2025-07-08'
+  link: https://doi.org/g9sxcn
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.life-science-alliance.org/content/lsa/8/9/e202403155/F1.medium.gif
+- id: doi:10.1101/2025.03.16.643544
+  title: Distinct Co-Methylation Patterns in African and European Populations and
+    Their Genetic Associations
+  authors:
+  - Zheng (Joe) Dong
+  - Nicole Gladish
+  - Maggie P.Y. Fu
+  - Samantha L. Schaffner
+  - Keegan Korthauer
+  - Michael S. Kobor
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-17'
+  link: https://doi.org/g897cx
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/03/17/2025.03.16.643544/F2.medium.gif
+- id: doi:10.1016/j.xpro.2025.103638
+  title: 'Examining cellular heterogeneity in human DNA methylation studies: Overview
+    and recommendations'
+  authors:
+  - Maggie Po-Yuan Fu
+  - Sarah Martin Merrill
+  - Keegan Korthauer
+  - Michael Steffen Kobor
+  publisher: STAR Protocols
+  date: '2025-03-01'
+  link: https://doi.org/g85jb7
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166725000449-gr1.jpg
 - id: doi:10.1101/2025.05.08.652964
   title: 'RAMEN: Dissecting individual, additive and interactive gene-environment
     contributions to DNA methylome variability in cord blood'
@@ -97,100 +141,30 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/ramen_fig.png
-- id: doi:10.1016/j.xpro.2025.103638
-  title: 'Examining cellular heterogeneity in human DNA methylation studies: Overview
-    and recommendations'
-  authors:
-  - Maggie Po-Yuan Fu
-  - Sarah Martin Merrill
-  - Keegan Korthauer
-  - Michael Steffen Kobor
-  publisher: STAR Protocols
-  date: '2025-03-01'
-  link: https://doi.org/g85jb7
-  orcid: 0000-0002-4565-1654
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166725000449-gr1.jpg
-- id: doi:10.1101/2025.03.16.643544
-  title: Distinct Co-Methylation Patterns in African and European Populations and
-    Their Genetic Associations
-  authors:
-  - Zheng (Joe) Dong
-  - Nicole Gladish
-  - Maggie P.Y. Fu
-  - Samantha L. Schaffner
-  - Keegan Korthauer
-  - Michael S. Kobor
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-03-17'
-  link: https://doi.org/g897cx
-  orcid: 0000-0002-4565-1654
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/03/17/2025.03.16.643544/F2.medium.gif
-- id: doi:10.1186/s13059-024-03457-7
+- id: doi:10.1101/2023.11.20.567911
   title: 'vmrseq: probabilistic modeling of single-cell methylation heterogeneity'
   authors:
   - Ning Shen
   - Keegan Korthauer
-  publisher: Genome Biology
-  date: '2024-12-30'
-  link: https://doi.org/g8xjdw
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-21'
+  link: https://doi.org/gs5377
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
-  buttons:
-  - type: source
-    link: https://github.com/nshen7/vmrseq-experiments
-  - type: package
-    text: R package
-    link: https://bioconductor.org/packages/vmrseq/
-- id: doi:10.1002/sim.10277
-  title: Bayesian Decision Curve Analysis With Bayesdca
+  type: duplicate
+- id: doi:10.48550/arXiv.2308.02067
+  title: Bayesian Decision Curve Analysis with bayesDCA
   authors:
-  - Giuliano Netto Flores Cruz
+  - Giuliano N. F. Cruz
   - Keegan Korthauer
-  publisher: Statistics in Medicine
-  date: '2024-12-01'
-  link: https://doi.org/g8t4jk
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsqg6w
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: https://github.com/giulianonetto/bayesdca/raw/master/man/figures/README-unnamed-chunk-5-1.png
-  buttons:
-  - type: source
-    link: https://github.com/giulianonetto/paper-bayesdca
-  - type: package
-    text: R Package
-    link: https://github.com/giulianonetto/bayesdca
-- id: doi:10.1002/mnfr.202400662
-  title: Pterostilbene Targets Hallmarks of Aging in the Gene Expression Landscape
-    in Blood of Healthy Rats
-  authors:
-  - "Marco A. Tello\u2010Palencia"
-  - Tony Yang
-  - Olga Sularz
-  - Louis Erik Demers
-  - Yuexi Ma
-  - Cayla Boycott
-  - Huiying Amelie Zhang
-  - "Katarzyna Lubecka\u2010Gajewska"
-  - Sadhri Kumar
-  - Benjamin S. Ramsey
-  - "Sandra Torregrosa\u2010Allen"
-  - Bennett D. Elzey
-  - Nadia Atallah Lanman
-  - Keegan Korthauer
-  - Barbara Stefanska
-  publisher: Molecular Nutrition &amp; Food Research
-  date: '2024-11-19'
-  link: https://doi.org/g8rjr4
-  orcid: 0000-0002-4565-1654
-  plugin: sources.py
-  file: sources.yaml
-  image: https://onlinelibrary.wiley.com/cms/asset/8e3da3e5-dcb5-4190-813c-0900b4f7e35c/mnfr4919-gra-0001-m.jpg
+  type: duplicate
 - id: doi:10.1101/2024.11.07.622474
   title: Genetic Basis, Quantitative Nature, and Functional Relevance of Evolutionarily
     Conserved DNA Methylation
@@ -248,30 +222,53 @@
   plugin: sources.py
   file: sources.yaml
   type: duplicate
-- id: doi:10.1101/2023.11.20.567911
-  title: 'vmrseq: probabilistic modeling of single-cell methylation heterogeneity'
+- id: doi:10.1101/2024.10.07.617116
+  title: Complete Reference Genome and Pangenome Expand Biologically Relevant Information
+    for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array
+    Data
   authors:
-  - Ning Shen
+  - Zheng (Joe) Dong
+  - Joanne Whitehead
+  - Maggie Fu
+  - Julia L. MacIsaac
+  - David H. Rehkopf
+  - Luis Rosero-Bixby
+  - Michael S. Kobor
   - Keegan Korthauer
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-21'
-  link: https://doi.org/gs5377
+  date: '2024-10-11'
+  link: https://doi.org/g8g3zh
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/11/2024.10.07.617116/F1.large.jpg
   type: duplicate
-- id: doi:10.48550/arXiv.2308.02067
-  title: Bayesian Decision Curve Analysis with bayesDCA
+- id: doi:10.1002/mnfr.202400662
+  title: Pterostilbene Targets Hallmarks of Aging in the Gene Expression Landscape
+    in Blood of Healthy Rats
   authors:
-  - Giuliano N. F. Cruz
+  - "Marco A. Tello\u2010Palencia"
+  - Tony Yang
+  - Olga Sularz
+  - Louis Erik Demers
+  - Yuexi Ma
+  - Cayla Boycott
+  - Huiying Amelie Zhang
+  - "Katarzyna Lubecka\u2010Gajewska"
+  - Sadhri Kumar
+  - Benjamin S. Ramsey
+  - "Sandra Torregrosa\u2010Allen"
+  - Bennett D. Elzey
+  - Nadia Atallah Lanman
   - Keegan Korthauer
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsqg6w
+  - Barbara Stefanska
+  publisher: Molecular Nutrition &amp; Food Research
+  date: '2024-11-19'
+  link: https://doi.org/g8rjr4
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  type: duplicate
+  image: https://onlinelibrary.wiley.com/cms/asset/8e3da3e5-dcb5-4190-813c-0900b4f7e35c/mnfr4919-gra-0001-m.jpg
 - id: doi:10.1016/j.nbd.2023.106138
   title: "FTD-associated behavioural and transcriptomic abnormalities in \u2018humanized\u2019\
     \ progranulin-deficient mice: A novel model for progranulin-associated FTD"
@@ -771,6 +768,43 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.gimjournal.org/cms/attachment/ad6f4dc5-411f-4ca8-ad11-f98e860c9122/gr2.jpg
+- id: doi:10.1038/s41591-020-1078-y
+  title: 'Author Correction: Detection of renal cell carcinoma using plasma and urine
+    cell-free DNA methylomes'
+  authors:
+  - Pier Vitale Nuzzo
+  - Jacob E. Berchuck
+  - Keegan Korthauer
+  - Sandor Spisak
+  - Amin H. Nassar
+  - Sarah Abou Alaiwi
+  - Ankur Chakravarthy
+  - Shu Yi Shen
+  - Ziad Bakouny
+  - Francesco Boccardo
+  - John Steinharter
+  - Gabrielle Bouchard
+  - Catherine R. Curran
+  - Wenting Pan
+  - Sylvan C. Baca
+  - Ji-Heui Seo
+  - Gwo-Shu Mary Lee
+  - M. Dror Michaelson
+  - Steven L. Chang
+  - Sushrut S. Waikar
+  - Guru Sonpavde
+  - Rafael A. Irizarry
+  - Mark Pomerantz
+  - Daniel D. De Carvalho
+  - Toni K. Choueiri
+  - Matthew L. Freedman
+  publisher: Nature Medicine
+  date: '2020-09-07'
+  link: https://doi.org/gsqg6r
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  type: duplicate
 - id: doi:10.1186/s13059-019-1716-1
   title: A practical guide to methods controlling false discoveries in computational
     biology
@@ -1127,8 +1161,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.15252/embj.201798452
-  title: "High\u2010throughput identification of\n            <scp>RNA</scp>\n   \
-    \         nuclear enrichment sequences"
+  title: "High\u2010throughput identification of\n                    <scp>RNA</scp>\n\
+    \                    nuclear enrichment sequences"
   authors:
   - Chinmay J Shukla
   - Alexandra L McCorkindale
@@ -1187,42 +1221,6 @@
   type: duplicate
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41591-020-1078-y
-  title: 'Author Correction: Detection of renal cell carcinoma using plasma and urine
-    cell-free DNA methylomes'
-  authors:
-  - Pier Vitale Nuzzo
-  - Jacob E. Berchuck
-  - Keegan Korthauer
-  - Sandor Spisak
-  - Amin H. Nassar
-  - Sarah Abou Alaiwi
-  - Ankur Chakravarthy
-  - Shu Yi Shen
-  - Ziad Bakouny
-  - Francesco Boccardo
-  - John Steinharter
-  - Gabrielle Bouchard
-  - Catherine R. Curran
-  - Wenting Pan
-  - Sylvan C. Baca
-  - Ji-Heui Seo
-  - Gwo-Shu Mary Lee
-  - M. Dror Michaelson
-  - Steven L. Chang
-  - Sushrut S. Waikar
-  - Guru Sonpavde
-  - Rafael A. Irizarry
-  - Mark Pomerantz
-  - Daniel D. De Carvalho
-  - Toni K. Choueiri
-  - Matthew L. Freedman
-  publisher: Nature Medicine
-  date: '2020-09-07'
-  link: https://doi.org/gsqg6r
-  type: duplicate
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1200/JCO.2020.38.6_SUPPL.728
   title: Sensitive detection of renal cell carcinoma using plasma and urine cell-free
     DNA methylomes.
@@ -1253,23 +1251,37 @@
   type: duplicate
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.10.07.617116
-  title: Complete Reference Genome and Pangenome Expand Biologically Relevant Information
-    for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array
-    Data
+- id: doi:10.1002/sim.10277
+  title: Bayesian Decision Curve Analysis With Bayesdca
   authors:
-  - Zheng (Joe) Dong
-  - Joanne Whitehead
-  - Maggie Fu
-  - Julia L. MacIsaac
-  - David H. Rehkopf
-  - Luis Rosero-Bixby
-  - Michael S. Kobor
+  - Giuliano Netto Flores Cruz
   - Keegan Korthauer
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-10-11'
-  link: https://doi.org/g8g3zh
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/11/2024.10.07.617116/F1.large.jpg
-  type: duplicate
+  publisher: Statistics in Medicine
+  date: '2024-12-01'
+  link: https://doi.org/g8t4jk
+  image: https://github.com/giulianonetto/bayesdca/raw/master/man/figures/README-unnamed-chunk-5-1.png
+  buttons:
+  - type: source
+    link: https://github.com/giulianonetto/paper-bayesdca
+  - type: package
+    text: R Package
+    link: https://github.com/giulianonetto/bayesdca
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-024-03457-7
+  title: 'vmrseq: probabilistic modeling of single-cell methylation heterogeneity'
+  authors:
+  - Ning Shen
+  - Keegan Korthauer
+  publisher: Genome Biology
+  date: '2024-12-30'
+  link: https://doi.org/g8xjdw
+  image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
+  buttons:
+  - type: source
+    link: https://github.com/nshen7/vmrseq-experiments
+  - type: package
+    text: R package
+    link: https://bioconductor.org/packages/vmrseq/
   plugin: sources.py
   file: sources.yaml
