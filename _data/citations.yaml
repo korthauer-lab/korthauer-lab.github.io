@@ -27,8 +27,9 @@
   date: '2025-12-10'
   link: https://doi.org/hbfdq7
   orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/ramen_fig.png
 - id: doi:10.1200/PO-25-00279
   title: 'Clinical Utility of Multicancer Detection in Symptomatic Patients: A Decision-Making
     Perspective'
@@ -170,7 +171,7 @@
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: ../images/ramen_fig.png
+  type: duplicate
 - id: doi:10.1101/2023.11.20.567911
   title: 'vmrseq: probabilistic modeling of single-cell methylation heterogeneity'
   authors:
