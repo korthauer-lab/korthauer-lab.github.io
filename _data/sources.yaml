@@ -184,7 +184,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166725000449-gr1.jpg
   
 - id: doi:10.1101/2025.03.16.643544
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/03/17/2025.03.16.643544/F2.medium.gif
+  type: duplicate
 
 - id: doi:10.1101/2025.05.09.653152
   image: ../images/decemedip_fig.jpg
@@ -200,3 +200,6 @@
   
 - id: doi:10.1200/PO-25-00279
   image: https://ascopubs.org/cms/10.1200/PO-25-00279/asset/66c45444-4206-471c-bbdd-e2dde94107ba/assets/images/large/po-25-00279f1.jpg
+  
+- id: doi:10.1093/gpbjnl/qzaf096
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gpb/PAP/10.1093_gpbjnl_qzaf096/1/qzaf096f1.jpeg?Expires=1769464551&Signature=4vMNTbOp-W7Cxb-AdbaFDHrfrWkI9ip5UtRHu3rnvSi26zG2fu9iE7T5sybC7-i2lNlQI6xhDOTF4M57p0rLHBzHb~UWFNy371Oyp2i4xtNIV1xFiycXuAmRDH~wE0qoxrhSAGubXI2iOqnxxy4TOR5D8Ut7CFj7bwICnfMjQ6SyIym~x0Q8Pc-6iJLzN8WXJEazSrIYyYF8387s9pJTtVgJ5OG-A8TKlGtz3W7XbKVtytNzVKYNW2IKx0ZmS-TITSjhPxOU0yIy1URVINqBU4mTsD5kUzRIqL2QK0ZHGHe2sIfKyjfwFIigps4JVVxTFZJ5QDVS4DhiHo6MCMNf7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
