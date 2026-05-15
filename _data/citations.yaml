@@ -43,23 +43,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ascopubs.org/cms/10.1200/PO-25-00279/asset/66c45444-4206-471c-bbdd-e2dde94107ba/assets/images/large/po-25-00279f1.jpg
-- id: doi:10.1093/gpbjnl/qzaf096
-  title: Distinct Co-methylation Patterns in African and European Populations and
-    Their Genetic Associations
-  authors:
-  - Zheng Dong
-  - Nicole Gladish
-  - Maggie P Y Fu
-  - Samantha L Schaffner
-  - Keegan Korthauer
-  - Michael S Kobor
-  publisher: Genomics, Proteomics &amp; Bioinformatics
-  date: '2025-11-12'
-  link: https://doi.org/hbggs6
-  orcid: 0000-0002-4565-1654
-  plugin: sources.py
-  file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gpb/PAP/10.1093_gpbjnl_qzaf096/1/qzaf096f1.jpeg?Expires=1769464551&Signature=4vMNTbOp-W7Cxb-AdbaFDHrfrWkI9ip5UtRHu3rnvSi26zG2fu9iE7T5sybC7-i2lNlQI6xhDOTF4M57p0rLHBzHb~UWFNy371Oyp2i4xtNIV1xFiycXuAmRDH~wE0qoxrhSAGubXI2iOqnxxy4TOR5D8Ut7CFj7bwICnfMjQ6SyIym~x0Q8Pc-6iJLzN8WXJEazSrIYyYF8387s9pJTtVgJ5OG-A8TKlGtz3W7XbKVtytNzVKYNW2IKx0ZmS-TITSjhPxOU0yIy1URVINqBU4mTsD5kUzRIqL2QK0ZHGHe2sIfKyjfwFIigps4JVVxTFZJ5QDVS4DhiHo6MCMNf7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1101/2025.10.29.685387
   title: Low oxygen promotes extravillous trophoblast progenitor expansion but restrains
     maturation
@@ -76,13 +59,30 @@
   - Keegan Korthauer
   - Margherita Y. Turco
   - Alexander G. Beristain
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-10-30'
   link: https://doi.org/hbhmd8
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2025/10/30/2025.10.29.685387/F1.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1093/gpbjnl/qzaf096
+  title: Distinct Co-methylation Patterns in African and European Populations and
+    Their Genetic Associations
+  authors:
+  - Zheng Dong
+  - Nicole Gladish
+  - Maggie P Y Fu
+  - Samantha L Schaffner
+  - Keegan Korthauer
+  - Michael S Kobor
+  publisher: Genomics, Proteomics &amp; Bioinformatics
+  date: '2025-03-22'
+  link: https://doi.org/hbggs6
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gpb/PAP/10.1093_gpbjnl_qzaf096/1/qzaf096f1.jpeg?Expires=1769464551&Signature=4vMNTbOp-W7Cxb-AdbaFDHrfrWkI9ip5UtRHu3rnvSi26zG2fu9iE7T5sybC7-i2lNlQI6xhDOTF4M57p0rLHBzHb~UWFNy371Oyp2i4xtNIV1xFiycXuAmRDH~wE0qoxrhSAGubXI2iOqnxxy4TOR5D8Ut7CFj7bwICnfMjQ6SyIym~x0Q8Pc-6iJLzN8WXJEazSrIYyYF8387s9pJTtVgJ5OG-A8TKlGtz3W7XbKVtytNzVKYNW2IKx0ZmS-TITSjhPxOU0yIy1URVINqBU4mTsD5kUzRIqL2QK0ZHGHe2sIfKyjfwFIigps4JVVxTFZJ5QDVS4DhiHo6MCMNf7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1016/j.celrep.2025.115755
   title: Complete reference genome and pangenome improve genome-wide detection and
     interpretation of DNA methylation using sequencing and array data
