@@ -1,5 +1,59 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.nbd.2026.107419
+  title: Humanized mice carrying a pathogenic GRN deletion as a pre-clinical platform
+    for targeted gene therapies in frontotemporal dementia
+  authors:
+  - Benjamin E. Life
+  - Pardis Kazemian
+  - Terri L. Petkau
+  - Alissandra de Moura Gomes
+  - Sarah B. Thomson
+  - Ning Shen
+  - Junia Myung
+  - Farah Jayousi
+  - Tess C. Lengyell
+  - Philipp F. Lange
+  - Elizabeth M. Simpson
+  - Keegan Korthauer
+  - Blair R. Leavitt
+  publisher: Neurobiology of Disease
+  date: '2026-06-01'
+  link: https://doi.org/hb6gq6
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40246-026-00958-3
+  title: "Progranulin genetic variant rs5848 displays ancestry-specific associations\
+    \ with Alzheimer\u2019s disease"
+  authors:
+  - Benjamin E. Life
+  - Erick I. Navarro-Delgado
+  - Oriol Fornes
+  - Jan M. Friedman
+  - Wyeth W. Wasserman
+  - Keegan Korthauer
+  - Blair R. Leavitt
+  publisher: Human Genomics
+  date: '2026-04-13'
+  link: https://doi.org/hb6gq7
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.6339/26-jds241edi
+  title: 'Editorial: Statistical Aspects of Trustworthy Machine Learning'
+  authors:
+  - "Stephanie\_C. Hicks"
+  - Keegan Korthauer
+  - Xiaotong Shen
+  - Jun Yan
+  - "Hao\_Helen Zhang"
+  publisher: Journal of Data Science
+  date: '2026-01-01'
+  link: https://doi.org/hb6gq8
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-025-03864-4
   title: 'RAMEN: Dissecting individual, additive and interactive gene-environment
     contributions to DNA methylome variability in cord blood'
