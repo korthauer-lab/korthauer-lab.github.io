@@ -1286,8 +1286,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.15252/embj.201798452
-  title: "High\u2010throughput identification of\n                    <scp>RNA</scp>\n\
-    \                    nuclear enrichment sequences"
+  title: "High\u2010throughput identification of RNA nuclear enrichment sequences"
   authors:
   - Chinmay J Shukla
   - Alexandra L McCorkindale
