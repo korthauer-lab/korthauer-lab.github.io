@@ -2,6 +2,7 @@
 name: Irvin Ng
 image: images/people/BCCHR_Profile_IN_Korthauer.jpg
 role: ms
+group: alum
 links:
     email: irvin.ng@bcchr.ca
     linkedin: irvin-ng-605424120

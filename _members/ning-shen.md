@@ -2,6 +2,7 @@
 name: Ning Shen
 image: images/people/ning.jpg
 role: phd
+group: alum
 links:
   email: ning.shen@stat.ubc.ca
   github: nshen7
