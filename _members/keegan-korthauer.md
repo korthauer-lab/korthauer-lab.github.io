@@ -11,6 +11,7 @@ aliases:
   - KD Korthauer
   - K D Korthauer
   - K Korthauer
+  - Hasselmann
 links:
   email: keegan.korthauer@ubc.ca
   google-scholar: spd-KjUAAAAJ
