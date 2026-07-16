@@ -202,7 +202,13 @@
   image: https://ascopubs.org/cms/10.1200/PO-25-00279/asset/66c45444-4206-471c-bbdd-e2dde94107ba/assets/images/large/po-25-00279f1.jpg
   
 - id: doi:10.1093/gpbjnl/qzaf096
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gpb/PAP/10.1093_gpbjnl_qzaf096/1/qzaf096f1.jpeg?Expires=1769464551&Signature=4vMNTbOp-W7Cxb-AdbaFDHrfrWkI9ip5UtRHu3rnvSi26zG2fu9iE7T5sybC7-i2lNlQI6xhDOTF4M57p0rLHBzHb~UWFNy371Oyp2i4xtNIV1xFiycXuAmRDH~wE0qoxrhSAGubXI2iOqnxxy4TOR5D8Ut7CFj7bwICnfMjQ6SyIym~x0Q8Pc-6iJLzN8WXJEazSrIYyYF8387s9pJTtVgJ5OG-A8TKlGtz3W7XbKVtytNzVKYNW2IKx0ZmS-TITSjhPxOU0yIy1URVINqBU4mTsD5kUzRIqL2QK0ZHGHe2sIfKyjfwFIigps4JVVxTFZJ5QDVS4DhiHo6MCMNf7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://academic.oup.com/view-large/figure/558220784/qzaf096f5.tif?itm_medium=graphical+abstract+image&itm_content=open+image&itm_source=http://academic.oup.com/gpb/article/23/5/qzaf096/8321955&itm_campaign=graphical+abstract
   
 - id: doi:10.1101/2025.10.29.685387
   image: https://www.biorxiv.org/content/biorxiv/early/2025/10/30/2025.10.29.685387/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1186/s40246-026-00958-3  
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40246-026-00958-3/MediaObjects/40246_2026_958_Fig1_HTML.png?as=webp
+
+- id: doi:10.1016/j.nbd.2026.107419
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996126001646-gr5_lrg.jpg
