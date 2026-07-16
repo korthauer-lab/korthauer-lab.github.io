@@ -2,6 +2,8 @@
 name: Marco Tello
 image: images/people/marco.jpeg
 role: ms
+aliases:
+  - Tello-Palencia
 group: alum
 ---
 

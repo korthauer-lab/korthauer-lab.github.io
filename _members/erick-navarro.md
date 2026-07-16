@@ -3,14 +3,9 @@ name: Erick I. Navarro-Delgado
 image: images/people/erick_navarro.jpg
 role: phd
 aliases: 
-  -  Erick Navarro
-  -  Erick I. Navarro Delgado
-  -  EI Navarro-Delgado
-  -  E.I. Navarro-Delgado
-  -  E Navarro-Delgado
-  -  E. I. Navarro-Delgado
-  -  E I Navarro-Delgado
-  -  Erick I. Navarro-Delgado
+  -  Navarro
+  -  Navarro Delgado
+  -  Navarro-Delgado
 links:
   email: erick.navarrodelgado@bcchr.ca
   google-scholar: zZSMDmMAAAAJ

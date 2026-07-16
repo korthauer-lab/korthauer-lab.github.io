@@ -3,14 +3,7 @@ name: Keegan Korthauer
 image: images/people/keegan.jpeg
 role: pi
 aliases:
-  - Keegan Korthauer
-  - Keegan D. Korthauer
-  - K. D. Korthauer
-  - K.D. Korthauer
-  - K. Korthauer
-  - KD Korthauer
-  - K D Korthauer
-  - K Korthauer
+  - Korthauer
   - Hasselmann
 links:
   email: keegan.korthauer@ubc.ca
