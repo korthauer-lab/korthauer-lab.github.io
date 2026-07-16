@@ -10,6 +10,7 @@ aliases:
   -  E Navarro-Delgado
   -  E. I. Navarro-Delgado
   -  E I Navarro-Delgado
+  -  Erick I. Navarro-Delgado
 links:
   email: erick.navarrodelgado@bcchr.ca
   google-scholar: zZSMDmMAAAAJ
