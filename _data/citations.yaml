@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s42003-026-10935-0
+  title: Cross-platform Bayesian deconvolution of MeDIP-seq reveals tissue-specific
+    and cancer-associated methylation signatures
+  authors:
+  - Ning Shen
+  - Ze Zhang
+  - Sylvan Baca
+  - Keegan Korthauer
+  publisher: Communications Biology
+  date: '2026-09-18'
+  link: https://doi.org/hcj8qg
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.nbd.2026.107419
   title: Humanized mice carrying a pathogenic GRN deletion as a pre-clinical platform
     for targeted gene therapies in frontotemporal dementia
