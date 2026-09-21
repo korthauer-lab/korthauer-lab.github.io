@@ -12,8 +12,9 @@
   date: '2026-09-18'
   link: https://doi.org/hcj8qg
   orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-026-10935-0/MediaObjects/42003_2026_10935_Figa_HTML.png?as=webp
 - id: doi:10.1016/j.nbd.2026.107419
   title: Humanized mice carrying a pathogenic GRN deletion as a pre-clinical platform
     for targeted gene therapies in frontotemporal dementia
@@ -187,6 +188,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/decemedip_fig.jpg
+  type: duplicate
 - id: doi:10.26508/lsa.202403155
   title: "Accounting for differences between Infinium MethylationEPIC v2 and v1 in\
     \ DNA methylation\u2013based tools"
