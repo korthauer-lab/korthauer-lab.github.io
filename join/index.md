@@ -8,6 +8,6 @@ We are an interdisciplinary group, with a blend of quantitative skills in mathem
 
 Keegan is a faculty member of three graduate programs ([Statistics](https://www.stat.ubc.ca/graduate), [Bioinformatics](http://www.bioinformatics.ubc.ca/apply/), and [Genome Science & Technology](https://www.gsat.ubc.ca/admission/)), each of which has an MSc and PhD track. 
 
-I welcome prospective students and postdocs with training and interests in one or more of those areas to contact me if interested in joining the group. Please send me your CV, along with a brief summary of your training and research interests, *highlighting how your interests and experience align with our group*. 
+I welcome prospective students and postdocs with training and interests in one or more of those areas to contact me if interested in joining the group. Please send me your CV, along with a brief summary of your training and research interests **written in your own words**, *highlighting how your interests and experience align with our group*. 
 
-Note that due to a high volume of email inquiries, **I am not able to respond to every request individually**. Thanks for your understanding!
+Note that due to a high volume of email inquiries, **I can only respond to a select few individuals**. Thanks for your understanding!
