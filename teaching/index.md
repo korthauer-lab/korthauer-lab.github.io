@@ -13,4 +13,4 @@ Dr. Korthauer is involved in development and delivery of Statistics courses at U
 
 - [STAT 450: Case Studies in Statistics](https://ubc-stat.github.io/stat-450/): an advanced undergraduate statistical consulting course for statistics majors 
 
-- [Guest lecture, STAT 548R: Finding, Following, and Managing the Literature](teaching/literature_citation_management.html)
+- [Guest lecture, STAT 548R: Finding, Following, and Managing the Literature](literature_citation_management.html)
