@@ -7,9 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
-Dr. Korthauer is involved in development and delivery of popular courses at UBC. When feasible, select course materials are made freely available - see below for a selection of current/recent courses: 
+Dr. Korthauer is involved in development and delivery of Statistics courses at UBC. When feasible, select course materials are made freely available - see below for a selection of current/recent courses: 
 
 - [STAT 540: Statistical Methods for High Dimensional Biology](https://stat540-ubc.github.io/): a graduate course in applied statistics for analysis of genomic data
 
 - [STAT 450: Case Studies in Statistics](https://ubc-stat.github.io/stat-450/): an advanced undergraduate statistical consulting course for statistics majors 
 
+- [Guest lecture, STAT 548R: Finding, Following, and Managing the Literature](teaching/literature_citation_management.html)
